@@ -75,6 +75,6 @@ npm test
 5. Build project
 ```sh
 
-npm run build:{environment} 
+npm run build
 
 ```
