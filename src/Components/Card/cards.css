@@ -1,0 +1,43 @@
+.card-image {
+    background: rgba(51, 214, 159, 0.07);
+    border-radius: 50%;
+    margin-right: 5px;
+    height: 70px;
+    width: 70px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-line1 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: #000000;
+}
+
+.card-line2 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: #A6ACBE;
+}
+
+.card-title {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  color: #A6ACBE;
+}

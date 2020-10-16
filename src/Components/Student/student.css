@@ -1,0 +1,38 @@
+.student-heading-column1 {
+    font-family: Gilroy;
+    width: 75%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: #000000;
+  }
+  
+  .student-column1 {
+    font-family: Gilroy;
+    width: 75%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #A6ACBE;
+  }
+  
+  .student-column2 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.01em;
+    color: #000000;
+    justify-content: center;
+  }
